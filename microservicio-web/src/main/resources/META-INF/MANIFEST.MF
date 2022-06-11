@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: example
+Build-Jdk: 10
+Created-By: Apache Maven 3.3.3
+Archiver-Version: Plexus Archiver
+Main-Class: mx.com.example.web.Application
